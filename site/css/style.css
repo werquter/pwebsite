@@ -7,12 +7,84 @@ header{
 h1{
 	text-align: center;
 	font-size: 150%;
+	line-height: 90%;
 }
 
 .nav-link{
 	color: black;
+
 }
 
 .nav-link:hover{
 	color: grey;
+}
+p{  
+	position:absolute;
+	left:30%;
+	width:40%;
+	top:40%;
+	
+	line-height: 190%;
+}
+.founder1 img{
+
+	margin-left:-200px;
+}
+.founder2 img{
+	margin-left: 400px;
+}
+.name1{
+	position:absolute;
+	left:30%;
+	width:40%;
+	top:100%;
+}
+.name2{
+	position:absolute;
+	left:70%;
+	width:40%;
+	top:100%;
+
+}
+.carousel {
+	width:50%;
+	height: 10%;
+	align-items: center;
+
+}
+
+.logo-cont{
+    
+    text-align: center;
+    color: #99e2b4;
+}
+.a {
+    color: black;
+    size: 10ch;
+}
+.telegram img{
+    margin-right: 100px ;
+    color: #99e2b4;
+    width: 100px;
+}
+
+.instagramm img{
+    margin-right: 100px ;
+    color: #99e2b4;
+    width: 100px;
+}
+
+.gmail img{
+
+    margin-right: 0px ;
+    color: #99e2b4;
+    width: 130px;
+}
+.text-contact{
+    padding-top: 100px;
+    text-align: center;
+}
+.bottom{
+	text-align: center;
+	line-height: 250%;
 }
